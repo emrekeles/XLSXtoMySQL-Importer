@@ -1,0 +1,6 @@
+db_host = "serverip"
+db_port = 3306
+db_user = "username"
+db_password = "password"
+db_name = "db_name"
+table_name = "sample_table"
